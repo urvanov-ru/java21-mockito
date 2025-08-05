@@ -8,7 +8,7 @@
   <artifactId>java21-mockito</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>java21-mockito</name>
-  <url>https://urvanov.ru</url>
+  <url>https://urvanov.ru/2025/08/05/java-21-mockito/</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.release>21</maven.compiler.release>
